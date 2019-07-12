@@ -1,6 +1,1 @@
-aaa
-<<<<<<< HEAD
-bb
-=======
-a
->>>>>>> 42e0717ebab2983b3687bc27b49cb164bc62e403
+Im Drexz
