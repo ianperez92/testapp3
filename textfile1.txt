@@ -1,2 +1,6 @@
 Im Drexz
+<<<<<<< HEAD
 Hello!!
+=======
+Im Ian
+>>>>>>> 2e8d6d58e83816d9a60a6fbde5f749bd32a9e2d8
